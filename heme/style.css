@@ -1,0 +1,15 @@
+/*
+Theme Name: Lovely Dust Child
+Theme URI: https://www.lovelydust.com
+Description: Divi child theme for Lovely Dust. Carries only custom CSS/JS/PHP that is staged in GitHub and deployed here on an hourly schedule. All page layouts and content continue to be managed through the Divi Builder in the parent theme - this child theme intentionally has no template files of its own, so it inherits Divi's rendering completely.
+Author: Wesson Tech Services
+Template: Divi
+Version: 1.0.0
+Text Domain: lovely-dust-child
+License: GPL-2.0-or-later
+*/
+
+/* Custom site CSS goes below this line. This file is deployed automatically
+   every hour, on the hour, to the live lovelydust.com child theme. Develop
+   here on the `staging` branch; do not edit the live site's style.css
+   directly, it will be overwritten by the next sync. */
